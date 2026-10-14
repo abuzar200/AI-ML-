@@ -1,0 +1,15 @@
+Dataset entropy: 1.0
+Information gain for Outlook: 0.541
+Information gain for Humidity: 0.000
+Information gain for Wind: 0.459
+Decision tree:
+Outlook == Overcast
+  Predict: Yes
+Outlook == Rain
+  Wind == Strong
+    Predict: No
+  Wind == Weak
+    Predict: Yes
+Outlook == Sunny
+  Predict: No
+Training accuracy: 6 / 6
