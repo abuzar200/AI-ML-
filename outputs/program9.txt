@@ -1,0 +1,2 @@
+Board: ('X', 'X', ' ', 'O', 'O', ' ', ' ', ' ', ' ')
+Best move for X (index 0 to 8): 2
