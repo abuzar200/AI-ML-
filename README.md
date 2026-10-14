@@ -33,8 +33,4 @@ python -m unittest discover -s tests -v
 
 `program1.py` is interactive; enter `bye` to quit. For each experiment, see [LAB_GUIDE.md](LAB_GUIDE.md) and the generated examples in [outputs](outputs).
 
-## Provenance
 
-These are independently written educational exercises. The file naming was inspired by [Harshil-0106/AI](https://github.com/Harshil-0106/AI), but this repository is **not** an exact reproduction of that repository's unverified source code. The 8-puzzle and search concepts connect to Assignment 1; the ID3 example uses the six-row Play Tennis dataset from Assignment 3.
-
-The implementation was tested locally before publication; rerun the commands above to verify it on your own system.
